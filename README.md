@@ -4,7 +4,7 @@ Proyecto de lógica de programación: GENERADOR DE CONTRASEÑAS SEGURAS
 
 Andrade Macias Jhon Carlos
 
-27/06/2026
+28/06/2026
 
 Objetivo del sistema desarrollado
 
